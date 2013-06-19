@@ -30,7 +30,7 @@
 .viewSwitch li span { /* Standard */
  display: block;
  overflow: hidden;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-mediathek.png?__blob=normal&v=2) 50% 5px no-repeat;
+ background: url(../img/sprites-icons-mediathek.png) 50% 5px no-repeat;
  width: 18px;
  height: 10px;
  padding: 5px 10px;
@@ -172,7 +172,7 @@
     margin: 0;
 }
 #content .mediathek .teaser .rubrikFooter a {
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) no-repeat scroll 0 -3197px transparent;
+ background: url(../img/sprites-icons.png) no-repeat scroll 0 -3197px transparent;
  padding-left: 12px;
  font-size: 150%;
 }
@@ -249,7 +249,7 @@
 #content .mediathek .medialist th {
  border: none;
  border-bottom: 10px solid #fff;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-pictures.png?__blob=normal&v=2) repeat scroll 0 0 transparent;
+ background: url(../img/bg-pictures.png) repeat scroll 0 0 transparent;
  padding: 6px 0;
  font-size: 150%;
 }
@@ -283,7 +283,7 @@
 }
 .mediathek .pageNavigation a {
  float: right;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3197px no-repeat;
+ background: url(../img/sprites-icons.png) 0 -3197px no-repeat;
  padding-left: 11px;
  font-size: 140%;
 }
@@ -336,7 +336,7 @@
 }
 .mediaAdditionals li a {
  display: block;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-file-types.png?__blob=normal&v=3) 0 -1200px no-repeat;
+ background: url(../img/sprite-file-types.png) 0 -1200px no-repeat;
  color: #004F80;
  padding: 4px 0 4px 37px;
 }
@@ -370,11 +370,11 @@
  background-position: 0 -900px;
 }
 .mediaAdditionals li.mp3 a {
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -5400px no-repeat;
+ background: url(../img/sprites-icons.png) 0 -5400px no-repeat;
  padding: 2px 0 6px 24px;
 }
 .mediaAdditionals li.rss a {
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -5600px no-repeat;
+ background: url(../img/sprites-icons.png) 0 -5600px no-repeat;
  padding: 2px 0 4px 37px;
 }
 #content .mediathek .text .teaser-switcher .rack .teaser {

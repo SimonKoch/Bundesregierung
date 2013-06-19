@@ -112,7 +112,7 @@ p.hinweis {
 }
 
 .service-navigation li strong {
-    background: url("/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal") no-repeat scroll 2px -3591px transparent;
+    background: url("../img/sprites-icons.png") no-repeat scroll 2px -3591px transparent;
     display: block;
     padding: 6px 10px 6px 15px;
 }
@@ -148,13 +148,13 @@ p.hinweis {
 
 #main .tableOfDocuments li a,
 #main .tableOfDocuments li strong {
-  background: url("/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal") no-repeat scroll 2px -3591px transparent;
+  background: url("../img/sprites-icons.png") no-repeat scroll 2px -3591px transparent;
   display: block;
   padding: 3px 10px 3px 15px;
 }
 
 #main .tableOfDocuments li a:hover, .service-navigation li a:active, .service-navigation li a:focus {
-  background: url("/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal") no-repeat scroll 2px -3591px transparent;
+  background: url("../img/sprites-icons.png") no-repeat scroll 2px -3591px transparent;
   display: block;
   color: #373737;
 }

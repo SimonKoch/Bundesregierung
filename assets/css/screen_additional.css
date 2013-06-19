@@ -38,7 +38,7 @@ div.contactData{
 }
 a.unter2,
 p.unter2 {
-    background: url(/SiteGlobals/StyleBundles/Webs/Cvd/Bilder/icon_unter2.gif?__blob=normal&v=2) 0 1px no-repeat;
+    background: url(../img/icon_unter2.gif) 0 1px no-repeat;
 }
 p.unter2 {
     background-position: 0 4px;
@@ -65,7 +65,7 @@ img.cvdicon {
  {
     float: left;
     width: 11.25em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-file-types.png?__blob=normal&v=3) 0 6px no-repeat;
+    background: url(../img/sprite-file-types.png) 0 6px no-repeat;
     margin-right: 24px;
     padding-left: 36px;
     font-size: 160%;
@@ -101,12 +101,12 @@ img.cvdicon {
     background-position: 0 -1195px;
 }
 #main .downloadLink.mp3 {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -5395px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -5395px no-repeat;
 }
 #content p.shoppingCartAdd
 {
     width: 8.5em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3994px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3994px no-repeat;
     margin-right: 0;
 }
 p.downloadLink span,
@@ -190,12 +190,12 @@ p.shoppingCartAdd a:focus {
     text-indent: -9999em;
     width: 24px;
     height: 24px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-forward.png?__blob=normal&v=2) 0 0px no-repeat;
+    background: url(../img/paging-forward.png) 0 0px no-repeat;
     padding: 0;
     display:block;
 }
 .scrollLinks .back a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-back.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/paging-back.png) 0 0 no-repeat;
     border-bottom: none;
 }
 .scrollLinks .forward a:hover,
@@ -204,12 +204,12 @@ p.shoppingCartAdd a:focus {
 .scrollLinks .back a:hover,
 .scrollLinks .back a:active,
 .scrollLinks .back a:focus {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-forward.png?__blob=normal&v=2) 0 -24px no-repeat;
+    background: url(../img/paging-forward.png) 0 -24px no-repeat;
 }
 .scrollLinks .back a:hover,
 .scrollLinks .back a:active,
 .scrollLinks .back a:focus {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-back.png?__blob=normal&v=2) 0 -24px no-repeat;
+    background: url(../img/paging-back.png) 0 -24px no-repeat;
 }
 /* Bilderstrecken */
 #content .article-teaser-switcher .teaser .source {
@@ -353,7 +353,7 @@ input.checkbox {
     font-size: 100%;
 }
 #supplement .links li a.sign-language {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/icon_sign-language.png?__blob=normal&v=1) 0 50% no-repeat;
+    background: url(../img/icon_sign-language.png) 0 50% no-repeat;
     padding-left: 17px;
 }
 #supplement .journeyNav li.station {
@@ -391,7 +391,7 @@ input.checkbox {
 }
 #supplement .context a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3592px no-repeat;
+    background: url(../img/sprites-icons) 0 -3592px no-repeat;
     padding:4px 0 4px 13px;
 }
 #supplement .boxWrapper p.date {
@@ -399,7 +399,7 @@ input.checkbox {
 }
 #supplement .boxWrapper p strong.more a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 2px -3591px no-repeat;
+    background: url(../img/sprites-icons.png) 2px -3591px no-repeat;
     padding: 6px 10px 6px 15px;
 }
 #supplement .boxWrapper p strong.more a:hover,
@@ -415,7 +415,7 @@ ul#navFunctions li#navFunctionsRecommend strong {
     display: block;
     width: 3.7em;
     height: 2.7em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 50% -1800px no-repeat;
+    background: url(../img/sprites-icons.png) 50% -1800px no-repeat;
     text-indent: -9999em;
     color: #fff;
 }
@@ -501,7 +501,7 @@ background-color:#004F80;
    padding-bottom:2em;
 }
 #supplement .main-topic-navigation h3 {
- background: #373737 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 97% -384px no-repeat;
+ background: #373737 url(../img/sprites-icons.png) 97% -384px no-repeat;
     margin: 0;
     padding: 12px 40px 12px 10px;
     text-transform: uppercase;
@@ -532,7 +532,7 @@ background-color:#004F80;
 }
 .advice h2 em {
     display: block;
-    background: #890d48 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-today-arrow-grey.gif?__blob=normal&v=1) 100% -34px no-repeat;
+    background: #890d48 url(../img/teaser-today-arrow-grey.gif) 100% -34px no-repeat;
     margin: 25px 0 0 -20px;
     padding: 0 30px 0 0;
     font-size: 80%; /* 13px */
@@ -608,14 +608,14 @@ background-color:#004F80;
     padding-bottom: 0;
 }
 .embedded .more a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) no-repeat scroll 2px -3588px transparent;
+    background: url(../img/sprites-icons.png) no-repeat scroll 2px -3588px transparent;
     display: block;
     padding: 6px 10px 6px 15px;
     font-style: normal;
 }
 /* Kontextbox unter Artikel in Subsite A */
 .sectionRelated .kontextbox a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) no-repeat scroll 0 -3594px transparent;
+    background: url(../img/sprites-icons.png) no-repeat scroll 0 -3594px transparent;
     display: block;
     padding: 0 0 0 13px;
     font-size: 160%;
@@ -648,7 +648,7 @@ background-color:#004F80;
     border-bottom: 1px dotted #CDCDCD;
 }
 #content .mediathek .medialist td.even {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-pictures.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-pictures.png) 0 0 repeat;
 }
 /* Buehne */
 .teaser-wrapper .video-overlay {
@@ -658,7 +658,7 @@ background-color:#004F80;
     top: 136px;
     width: 68px;
     height: 68px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-overlay-2.png?__blob=normal&v=2) 50% 50% no-repeat;
+    background: url(../img/video-overlay-2.png) 50% 50% no-repeat;
     cursor: pointer;
 }
 /* Veranstaltung Typ */
@@ -764,7 +764,7 @@ float: left;
 #brochure span p.shoppingCartAdd {
  float: left;
  width: 11.25em;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-file-types.png?__blob=normal&v=3) 0 6px no-repeat;
+ background: url(../img/sprite-file-types.png) 0 6px no-repeat;
  margin-right: 24px;
  padding-left: 36px;
  font-size: 160%;
@@ -774,7 +774,7 @@ float: left;
 #brochure span p.shoppingCartAdd,
 #content a.shoppingCardLink {
  width: 8.5em;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3994px no-repeat;
+ background: url(../img/sprites-icons.png) 0 -3994px no-repeat;
  margin-right: 0;
 }
 #content a.shoppingCardLink {
@@ -783,7 +783,7 @@ float: left;
 #brochure span p.videoAdd,
 #content a.videoLink {
  width: 8.5em;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-icon-ts.png?__blob=normal&v=2) 0 0 no-repeat;
+ background: url(../img/video-icon-ts.png) 0 0 no-repeat;
  margin-right: 0;
 }
 #content a.videoLink {
@@ -834,7 +834,7 @@ width: 31em;
     margin: 10px 0 5px;
 }
 .gallery .pageNavigation a {
-    background: url("/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal") no-repeat scroll 0 -3197px transparent;
+    background: url("../img/sprites-icons.png") no-repeat scroll 0 -3197px transparent;
     float: right;
     font-size: 140%;
     padding-left: 11px;
@@ -881,7 +881,7 @@ width: 31em;
     display: block;
 }
 .js-on .accordion-group .accordion-heading a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) no-repeat scroll 100% -2594px transparent;
+    background: url(../img/sprites-icons.png) no-repeat scroll 100% -2594px transparent;
     cursor: pointer;
     outline: medium none;
     padding-right: 40px;
@@ -917,7 +917,7 @@ width: 31em;
     margin: 0 0 20px;
 }
 .accordion-body .links a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) no-repeat scroll 0 -2991px transparent;
+    background: url(../img/sprites-icons.png) no-repeat scroll 0 -2991px transparent;
     display: block;
     padding: 0 0 0 25px;
 }
