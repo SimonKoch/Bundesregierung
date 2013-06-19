@@ -187,7 +187,7 @@ Layout
     margin: 0 auto;
 }
 #wrapperDivisions {
-    background: #EEEEED url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-wrapperDvisions.png?__blob=normal&v=3) repeat-y 0 0;
+    background: #EEEEED url(../img/bg-wrapperDvisions.png) repeat-y 0 0;
 }
 .greater-than-1680 #wrapperDivisions {
     background-size: 60% 100%;
@@ -229,7 +229,7 @@ Layout
     padding-top: 2px;
 }
 #navBreadcrumbs {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-breadcrumb.png?__blob=normal&v=2) repeat-x scroll 0 0 #EEEEED;
+    background: url(../img/bg-breadcrumb.png) repeat-x scroll 0 0 #EEEEED;
     width: 88em;
     margin: 0 auto;
     padding: 12px 10em 12px 0;
@@ -250,7 +250,7 @@ Layout
 #stage.mod,
 #stage.mod-2 {
     height: 27em;
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-stripes-large.png?__blob=normal&v=2);
+    background-image: url(../img/bg-stripes-large.png);
     background-position: 0 100%;
     background-repeat: repeat-x;
 }
@@ -319,7 +319,7 @@ ul.nav-global li {
 }
 ul.nav-global li.menu-is-visible,
 ul.nav-global li.active {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/nav-arrow.png?__blob=normal&v=2) 50% 100% no-repeat;
+    background: url(../img/nav-arrow.png) 50% 100% no-repeat;
 }
 #navPrimary ul.nav-global li a,
 #navPrimary ul.nav-global li strong {
@@ -433,7 +433,7 @@ ul.nav-global .menu-box p {
 #navPrimary ul.nav-global .menu-box .more a {
     display: block;
     padding-left: 8px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) no-repeat 0 -3196px transparent;
+    background: url(../img/sprites-icons.png) no-repeat 0 -3196px transparent;
 }
 /****** Service Meta Navigation ******/
 #navServiceMeta {
@@ -464,17 +464,17 @@ ul.nav-global .menu-box p {
     color: #000;
 }
 #navServiceMeta li.sign-language {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/languages.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/languages.png) 0 0 no-repeat;
     padding-left: 31px;
     white-space: nowrap;
 }
 #navServiceMeta li.easy-language {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/languages.png?__blob=normal&v=2) 0 -196px no-repeat;
+    background: url(../img/languages.png) 0 -196px no-repeat;
     padding-left: 31px;
     white-space: nowrap;
 }
 #navServiceMeta li.navServiceShoppingCart {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) 0 -196px no-repeat;
+    background: url(../img/sprites-icons-2.png) 0 -196px no-repeat;
     padding-left: 27px;
     white-space: nowrap;
 }
@@ -530,12 +530,12 @@ ul.nav-global .menu-box p {
 }
 .nav-pageposition ol li.second-level {
     height: 4em;
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-stripes-large.png?__blob=normal&v=2) repeat 0 0;
+    background: #004F80 url(../img/bg-stripes-large.png) repeat 0 0;
 }
 .nav-pageposition ol li.second-level div {
     position: relative;
     height: 4.8em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-2-page-pos.png?__blob=normal&v=2) 60px 100% no-repeat;
+    background: url(../img/arrow-2-page-pos.png) 60px 100% no-repeat;
 }
 .em-increased-1 .nav-pageposition ol li.second-level div,
 .em-increased-2 .nav-pageposition ol li.second-level div,
@@ -551,7 +551,7 @@ ul.nav-global .menu-box p {
 }
 .nav-pageposition ol li.third-level div {
     height: 4.8em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-3-page-pos.png?__blob=normal&v=2) 60px 100% no-repeat;
+    background: url(../img/arrow-3-page-pos.png) 60px 100% no-repeat;
 }
 .em-increased-1 .nav-pageposition ol li.third-level div,
 .em-increased-2 .nav-pageposition ol li.third-level div,
@@ -605,7 +605,7 @@ ul.nav-global .menu-box p {
     display: block;
 }
 .main-topic-navigation h3 {
-    background: #373737 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 97% -384px no-repeat;
+    background: #373737 url(../img/sprites-icons.png) 97% -384px no-repeat;
     margin: 0;
     padding: 10px 40px 9px 10px;
     text-transform: uppercase;
@@ -693,7 +693,7 @@ ul.nav-global .menu-box p {
     left: 0;
     top: 0;
     width: 9.05em; /* 145px */
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/focus-nav-hl.png?__blob=normal&v=2) 50% 100% no-repeat;
+    background: url(../img/focus-nav-hl.png) 50% 100% no-repeat;
     padding: 20px 0 60px 0;
     color: #fff;
     font-weight: bold;
@@ -740,7 +740,7 @@ ul.nav-global .menu-box p {
 }
 #context-navigation ul {
     width: 31.7em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/context-nav.png?__blob=normal&v=2) repeat 0 0;
+    background: url(../img/context-nav.png) repeat 0 0;
     margin: 0;
     padding: 0 0 20px 0;
 }
@@ -748,7 +748,7 @@ ul.nav-global .menu-box p {
     position: relative;
     left: -10px;
     width: 32.7em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/border-trans.png?__blob=normal&v=3) repeat-x 0 0;
+    background: url(../img/border-trans.png) repeat-x 0 0;
     padding-left: 0;
     list-style: none;
 }
@@ -760,12 +760,12 @@ ul.nav-global .menu-box p {
 #context-navigation a,
 #context-navigation strong {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-context-off.png?__blob=normal&v=2) no-repeat 0 50%;
+    background: url(../img/arrow-context-off.png) no-repeat 0 50%;
     padding: 0 0 0 11px;
 }
 #context-navigation strong {
     display: block;
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-context-on.png?__blob=normal&v=3) no-repeat 0 50%;
+    background: #004F80 url(../img/arrow-context-on.png) no-repeat 0 50%;
     font-weight: normal;
     color: #fff;
 }
@@ -794,7 +794,7 @@ ul.nav-global .menu-box p {
 /****** Breadcrumb Navigation ******/
 #navBreadcrumbsWrapper {
     zoom: 1;
-    background: #eeeeed url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-breadcrumb.png?__blob=normal&v=2) 0 0 repeat-x;
+    background: #eeeeed url(../img/bg-breadcrumb.png) 0 0 repeat-x;
     border-top: 2px dotted #CDCDCD;
     padding: 0;
 }
@@ -806,7 +806,7 @@ ul.nav-global .menu-box p {
 #navBreadcrumbs a,
 #navBreadcrumbs strong {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -997px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -997px no-repeat;
     margin-left: 10px;
     padding: 0 0 0 15px;
     color: #212121;
@@ -818,7 +818,7 @@ ul.nav-global .menu-box p {
     color: #2C67AB;
 }
 #navBreadcrumbs .first {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -1200px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -1200px no-repeat;
     width: 15px;
     text-indent: -9999em;
 }
@@ -882,7 +882,7 @@ ul.nav-global .menu-box p {
 }
 .service-navigation li a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 2px -3591px no-repeat;
+    background: url(../img/sprites-icons.png) 2px -3591px no-repeat;
     padding: 6px 10px 6px 15px;
 }
 .service-navigation li a:hover,
@@ -905,7 +905,7 @@ ul.nav-global .menu-box p {
     text-transform: none;
 }
 .service-navigation .service-col-2 li.twitter a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9) 0 6px no-repeat;
+    background: url(../img/sprite-social.png) 0 6px no-repeat;
     padding-left: 68px;
 }
 .service-navigation .service-col-2 li.twitter a:hover,
@@ -914,7 +914,7 @@ ul.nav-global .menu-box p {
     background-position: 0 -793px;
 }
 .service-navigation .service-col-2 li.rss a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9) 3px -391px  no-repeat;
+    background: url(../img/sprite-social.png) 3px -391px  no-repeat;
     padding-left: 68px;
 }
 .service-navigation .service-col-2 li.rss a:hover,
@@ -923,7 +923,7 @@ ul.nav-global .menu-box p {
     background-position: 3px -1191px;
 }
 .service-navigation .service-col-2 li.youtube a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9) 0 -592px no-repeat;
+    background: url(../img/sprite-social.png) 0 -592px no-repeat;
     padding-left: 68px;
 }
 .service-navigation .service-col-2 li.youtube a:hover,
@@ -967,7 +967,7 @@ ul.nav-global .menu-box p {
 }
 .service-navigation .teaser p em.more a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 2px -3590px no-repeat;
+    background: url(../img/sprites-icons.png) 2px -3590px no-repeat;
     padding: 6px 10px 6px 15px;
 }
 .service-navigation .teaser p em.more a:hover,
@@ -979,7 +979,7 @@ ul.nav-global .menu-box p {
 .service-navigation .teaser p em.more-button {
     display: block;
     overflow: hidden;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-all-supplement.png?__blob=normal&v=2) repeat 0 0;
+    background: url(../img/bg-all-supplement.png) repeat 0 0;
     margin: 18px 0 0 0;
     font-style: normal;
     font-size: 88.5%; /* 13px */
@@ -1033,7 +1033,7 @@ für BKM Seite
     margin-left: 10px;
 }
 .service-navigation .request-box .combobox input {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/select-button.png?__blob=normal&v=2) no-repeat 97% -85px #fff;
+    background: url(../img/select-button.png) no-repeat 97% -85px #fff;
     border: none;
     font-size: 150%;
 }
@@ -1104,14 +1104,14 @@ für BKM Seite
 .service-navigation .search-box p a:hover,
 .service-navigation .search-box p a:active,
 .service-navigation .search-box p a:focus {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 2px -3791px no-repeat;
+    background: url(../img/sprites-icons.png) 2px -3791px no-repeat;
     text-decoration: underline;
     color: #373737;
 }
 /****** Quick Info Navigation ******/
 #quick-info {
     overflow: hidden;
-    background: #eeeeed url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-breadcrumb.png?__blob=normal&v=2) 0 0 repeat;
+    background: #eeeeed url(../img/bg-breadcrumb.png) 0 0 repeat;
     margin: -30px 0 25px -100%;
     padding: 15px 0 0 0;
 }
@@ -1122,7 +1122,7 @@ für BKM Seite
     padding: 10px 0;
 }
 #quick-info h2 {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -4599px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -4599px no-repeat;
     margin: 0 0 17px 0;
     padding: 1px 0 2px 35px;
     font-size: 150%;
@@ -1134,13 +1134,13 @@ für BKM Seite
     float: left;
     width: 45%;
     overflow: hidden;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/border-quick-info.png?__blob=normal&v=2) 0 100% repeat-x;
+    background: url(../img/border-quick-info.png) 0 100% repeat-x;
     margin: 0 30px 10px 0;
     border-bottom: none;
     padding: 0;
 }
 #main #quick-info li {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/border-quick-info.png?__blob=normal&v=2) 0 0 repeat-x;
+    background: url(../img/border-quick-info.png) 0 0 repeat-x;
     list-style: none;
     margin: 0 0 0 0;
     padding: 3px 0;
@@ -1149,7 +1149,7 @@ für BKM Seite
 }
 #quick-info li a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 2px -3589px no-repeat;
+    background: url(../img/sprites-icons.png) 2px -3589px no-repeat;
     padding: 6px 10px 6px 15px;
 }
 #quick-info li a:hover,
@@ -1225,7 +1225,7 @@ Search
 #search .submit:focus,
 #search .submit:hover,
 #search .submit:active {
-    background: #607B96 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg_box___blob=normal.png.png?__blob=normal&v=2) repeat-x 0 0;
+    background: #607B96 url(../img/bg_box.png) repeat-x 0 0;
     text-decoration: underline;
     color: #fff;
 }
@@ -1328,7 +1328,7 @@ home #content .teaser h3 em,
     font-style: normal;
 }
 #content .teaser p em.more a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3196px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3196px no-repeat;
     margin-left: 5px;
     padding-left: 8px;
 }
@@ -1340,7 +1340,7 @@ home #content .teaser h3 em,
  text-decoration: underline;
 }
 #content .all {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-social-network.gif?__blob=normal&v=2) repeat 0 0;
+    background: url(../img/bg-social-network.gif) repeat 0 0;
     margin: 0;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -1390,7 +1390,7 @@ home #content .teaser h3 em,
 #content #main #vote a,
 #wrapperDivisions #closing-stage .vote a {
     float: right;
-    background: #A76809 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) no-repeat 7px -1892px;
+    background: #A76809 url(../img/sprites-icons-2.png) no-repeat 7px -1892px;
     padding: 8px 10px 8px 30px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -1414,7 +1414,7 @@ home #content .teaser h3 em,
 #wrapperDivisions #closing-stage .vote a:focus,
 #wrapperDivisions #closing-stage .vote a:active,
 #wrapperDivisions #content .tg-3-cols .teaser.hover-clickarea .vote a {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) no-repeat 7px -1892px;
+    background: #004F80 url(../img/sprites-icons-2.png) no-repeat 7px -1892px;
     text-decoration: none;
 }
 #content .back-to {
@@ -1426,7 +1426,7 @@ home #content .teaser h3 em,
     float: left;
     line-height: 1.6em;
     padding-left: 12px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) 0 -1493px no-repeat;
+    background: url(../img/sprites-icons-2.png) 0 -1493px no-repeat;
     font-size: 150%;
     font-family: 'BundesSansWebBold', Arial, Helvetica, sans;
 }
@@ -1434,7 +1434,7 @@ home #content .teaser h3 em,
 #content .back-to a:active
 #content .back-to a:focus {
     color: #373737;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) 0 -1693px no-repeat;
+    background: url(../img/sprites-icons-2.png) 0 -1693px no-repeat;
 }
 #content .back-to a em {
     font-style: normal;
@@ -1571,7 +1571,7 @@ home #content .teaser h3 em,
     font-size: 150%;
 }
 #stage .stage-teaser li a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 3px -794px no-repeat;
+    background: url(../img/sprites-icons.png) 3px -794px no-repeat;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
@@ -1605,7 +1605,7 @@ home #content .teaser h3 em,
 }
 .stage-teaser-group .stage-teaser h2 a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-stripes-large.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-stripes-large.png) 0 0 repeat;
     padding: 10px;
     color: #fff;
 }
@@ -1626,11 +1626,11 @@ home #content .teaser h3 em,
 Bundeskabinett
 **************************************** */
 #ministryWrapper {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-stripes-large.png?__blob=normal&v=2) 0 0 repeat;
+    background: #004F80 url(../img/bg-stripes-large.png) 0 0 repeat;
     padding-top: 40px;
 }
 #ministryWrapper.mod {
-    background: #eeeeed url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-breadcrumb.png?__blob=normal&v=2) 0 0 repeat;
+    background: #eeeeed url(../img/bg-breadcrumb.png) 0 0 repeat;
     padding-top: 10px;
 }
 #ministry {
@@ -1679,7 +1679,7 @@ Bundeskabinett
 }
 #ministry-list dd.more a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -2197px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -2197px no-repeat;
     margin: 10px 0 0 0;
     padding: 0 0 0 10px;
     color: #fff;
@@ -1743,11 +1743,11 @@ Bundeskabinett
 }
 .ministry-tooltip {
     position: relative;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-tooltip.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/arrow-tooltip.png) 0 0 no-repeat;
     padding-left: 8px;
 }
 .ministry-tooltip-wrapper.positionaround-0-3 .ministry-tooltip {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-tooltip-flipped.png?__blob=normal&v=2) 100% 0 no-repeat;
+    background: url(../img/arrow-tooltip-flipped.png) 100% 0 no-repeat;
     padding-left: 0;
     padding-right: 8px;
 }
@@ -1769,7 +1769,7 @@ Bundeskabinett
     color: #767676;
 }
 .ministry-tooltip div a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3196px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3196px no-repeat;
     padding-left: 10px;
     font-size: 140%;
 }
@@ -1781,7 +1781,7 @@ Bundeskabinett
 }
 #ministry-intro {
     overflow: hidden;
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-ministry-intro.png?__blob=normal&v=2) 0 0 repeat;
+    background: #004F80 url(../img/bg-ministry-intro.png) 0 0 repeat;
     margin: -30px 0 25px -100%;
     padding: 15px 0 0 0;
 }
@@ -1958,7 +1958,7 @@ div.address {
     list-style: none;
 }
 #main ul.toc li a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3194px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3194px no-repeat;
     padding-left: 12px;
     line-height: 1.6em;
 }
@@ -1982,7 +1982,7 @@ div.address {
     border-bottom: 1px dotted  #2E5899;
 }
 .imagedownload {
-    background:  url(/SiteGlobals/StyleBundles/Bilder/Farbschema/img_file_bitv_nein.png?__blob=normal&v=2) no-repeat 0 2px;
+    background:  url(../img/img_file_bitv_nein.png) no-repeat 0 2px;
     padding-left:  1.3em;
 }
 #content a.sortUp {
@@ -2016,7 +2016,7 @@ div.address {
     color: #373737;
 }
 #content a.ExternalLink {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -4196px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -4196px no-repeat;
     padding-left: 13px;
 }
 #content a.ExternalLink:hover,
@@ -2056,7 +2056,7 @@ div.address {
  padding-left: 15px;
  color: #004F80;
  text-decoration: none;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) 0 -2094px no-repeat;
+ background: url(../img/sprites-icons-2.png) 0 -2094px no-repeat;
 }
 #content p.navToTop a:hover,
 #content p.navToTop a:focus,
@@ -2139,7 +2139,7 @@ dd {
     font-size: 150%;
 }
 #main .sectionRelated li a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3196px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3196px no-repeat;
     padding-left: 12px;
 }
 #main .sectionRelated li a:hover,
@@ -2200,7 +2200,7 @@ dd {
 }
 #content p.illustration,
 #content p.video {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-pictures.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-pictures.png) 0 0 repeat;
     margin: 0 0 20px 0;
     padding: 0;
     font-size: 120%;
@@ -2274,7 +2274,7 @@ dd {
 }
 /****** Tables ******/
 #content table {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-th.jpg?__blob=normal&v=2) 0 100% repeat-x;
+    background: url(../img/bg-th.jpg) 0 100% repeat-x;
     width: 100%;
     margin: 0 0 20px 0;
     padding: 0 0 10px 0;
@@ -2303,7 +2303,7 @@ table th {
     text-align: left;
 }
 table thead th {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-th.jpg?__blob=normal&v=2) 0 0 repeat-x;
+    background: url(../img/bg-th.jpg) 0 0 repeat-x;
     padding: 23px 8px 15px;
 }
 table th.th_dateOfIssue {
@@ -2332,7 +2332,7 @@ table td a:focus {
 }
 table tr.even,
 table td.even {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-pictures.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-pictures.png) 0 0 repeat;
 }
 #main td p,
 #main td li {
@@ -2385,7 +2385,7 @@ table td.even {
     clear: both;
     float: left;
     width: 100%;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-shaded.png?__blob=normal&v=1) 0 0 repeat;
+    background: url(../img/bg-shaded.png) 0 0 repeat;
     margin: 0;
     padding: 15px 0;
     font-size: 100%;
@@ -2534,7 +2534,7 @@ label {
 }
 #main .errorJumpLinks li a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3194px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3194px no-repeat;
     padding: 0 0 0 14px;
     font-family: 'BundesSansWebBold', Arial, Helvetica, sans;
     font-weight: bold;
@@ -2622,7 +2622,7 @@ label {
     font-style: normal;
 }
 #main .formHandle .more a {
-    background:  url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3596px no-repeat;
+    background:  url(../img/sprites-icons.png) 0 -3596px no-repeat;
     padding-left: 13px;
     font-size: 160%;
 }
@@ -2684,7 +2684,7 @@ label {
 }
 .shoppingCard input.submit {
     width: auto;
-    background: transparent url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -4793px no-repeat;
+    background: transparent url(../img/sprites-icons.png) 0 -4793px no-repeat;
     border: none;
     padding-left: 18px;
     text-align: left;
@@ -2707,7 +2707,7 @@ label {
 label.ui-checkbox,
 label.ui-radio {
     padding: 3px 0 2px 25px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/checkbox-radio.png?__blob=normal&v=4) 0 4px no-repeat;
+    background: url(../img/checkbox-radio.png) 0 4px no-repeat;
 }
 label.ui-radio {
     background-position: 0 -396px;
@@ -2765,7 +2765,7 @@ h3 label.ui-radio-state-checked-hover {
 }
 .combobox input {
     cursor: pointer;
-    background: #f7f7f7 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/select-button.png?__blob=normal&v=2) no-repeat 97% 13px;
+    background: #f7f7f7 url(../img/select-button.png) no-repeat 97% 13px;
 }
 .combobox.combobox-active input,
 .combobox.js-datalist-visible input {
@@ -2816,7 +2816,7 @@ h3 label.ui-radio-state-checked-hover {
 #main blockquote {
     float: none;
     width: auto;
-    background: #fff url(/SiteGlobals/StyleBundles/Bilder/Farbschema/quote.png?__blob=normal&v=2) 0 50% no-repeat;
+    background: #fff url(../img/quote.png) 0 50% no-repeat;
     border-top: 1px dotted #CDCDCD;
     border-bottom: 1px dotted #CDCDCD;
     margin: 0 0 20px 0;
@@ -2872,7 +2872,7 @@ h3 label.ui-radio-state-checked-hover {
 }
 #main blockquote.mod-2 p {
     position: relative;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-blockquote.png?__blob=normal&v=2) 10.5em 15px no-repeat;
+    background: url(../img/arrow-blockquote.png) 10.5em 15px no-repeat;
     padding: 10px 10px 2.5em 0;
     font-size: 180%;
     line-height: 1.3em;
@@ -2914,7 +2914,7 @@ Special Sites
     display: block;
 }
 #content #sitemap li li strong {
-    background: transparent url(/SiteGlobals/StyleBundles/Bilder/Farbschema/icon_link.png?__blob=normal&v=2) no-repeat 0 3px;
+    background: transparent url(../img/icon_link.png) no-repeat 0 3px;
     text-decoration: underline;
     padding-left: 11px;
 }
@@ -3028,11 +3028,11 @@ Special Sites
     width: 24px;
     display: block;
     height: 24px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-forward.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/paging-forward.png) 0 0 no-repeat;
     padding: 0;
 }
 .paging ul li.back a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-back.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/paging-back.png) 0 0 no-repeat;
 }
 .paging ul li.forward a:hover,
 .paging ul li.forward a:active,
@@ -3043,12 +3043,12 @@ Special Sites
     height: 24px;
     width: 24px;
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-forward.png?__blob=normal&v=2) 0 -24px no-repeat;
+    background: url(../img/paging-forward.png) 0 -24px no-repeat;
 }
 .paging ul li.back a:hover,
 .paging ul li.back a:active,
 .paging ul li.back a:focus {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/paging-back.png?__blob=normal&v=2) 0 -24px no-repeat;
+    background: url(../img/paging-back.png) 0 -24px no-repeat;
 }
 #searchResult ol {
     margin: 0 30px 30px 0;
@@ -3101,7 +3101,7 @@ Special Sites
     font-style: normal;
 }
 #searchResult li .more a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3197px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3197px no-repeat;
     margin-left: 5px;
     padding-left: 10px;
 }
@@ -3327,7 +3327,7 @@ Special Sites
 #brochures li p.shoppingCartAdd {
     float: left;
     width: 11.25em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-file-types.png?__blob=normal&v=3) 0 6px no-repeat;
+    background: url(../img/sprite-file-types.png) 0 6px no-repeat;
     margin-right: 24px;
     padding-left: 36px;
     font-size: 160%;
@@ -3337,7 +3337,7 @@ Special Sites
 #brochures li p.shoppingCartAdd,
 #content a.shoppingCardLink {
     width: 8.5em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/basket-webshop.png?__blob=normal&v=1) 0 0 no-repeat;
+    background: url(../img/basket-webshop.png) 0 0 no-repeat;
     margin-right: 0;
 }
 #content a.shoppingCardLink {
@@ -3474,7 +3474,7 @@ Supplementary Content
 }
 #content #supplement .all {
     height: 1%;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-all-supplement.png?__blob=normal&v=2) repeat 0 0;
+    background: url(../img/bg-all-supplement.png) repeat 0 0;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
     border-radius: 0;
@@ -3494,7 +3494,7 @@ Supplementary Content
 }
 #supplement .links li a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3590px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3590px no-repeat;
     padding: 6px 0 6px 13px;
 }
 #supplement .links li a:hover,
@@ -3504,7 +3504,7 @@ Supplementary Content
     color: #373737;
 }
 #supplement .links li a.download {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-file-types.png?__blob=normal&v=3) 4px -1190px no-repeat;
+    background: url(../img/sprite-file-types.png) 4px -1190px no-repeat;
     margin: 5px 0;
     padding: 4px 0 4px 42px;
     font-family: 'BundesSansWebBold', Arial, sans-serif;
@@ -3585,7 +3585,7 @@ Supplementary Content
     overflow: hidden;
     position: relative;
     width: 31.7em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-box.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-box.png) 0 0 repeat;
 }
 #supplement .box-teaser.box-teaser-mod .box {
     background: #fafafa;
@@ -3741,7 +3741,7 @@ Supplementary Content
 }
 /****** Map/Vcard in Supplement ******/
 #supplement .box-map .box {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-box.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-box.png) 0 0 repeat;
     padding-bottom: 20px;
 }
 #supplement .box-map p.picture {
@@ -3777,7 +3777,7 @@ Supplementary Content
 }
 #supplement .box-map em.more a,
 #supplement .box-std em.more a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3596px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3596px no-repeat;
     margin: 0 0 0 20px;
     padding-left: 14px;
     font-style: normal;
@@ -3817,7 +3817,7 @@ Supplementary Content
     cursor: pointer;
 }
 #supplement .teaser-today h3 {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-icon-big.png?__blob=normal&v=2) 0 3px no-repeat;
+    background: url(../img/video-icon-big.png) 0 3px no-repeat;
     min-height: 37px;
     padding: 0 0 0 50px;
     font-size: 180%;
@@ -3827,7 +3827,7 @@ Supplementary Content
     text-transform: uppercase;
 }
 #supplement .twitterview h3 {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/twitter-icon-w.png?__blob=normal&v=2) 0 1px no-repeat;
+    background: url(../img/twitter-icon-w.png) 0 1px no-repeat;
     min-height: 37px;
     padding: 0 0 0 55px;
     font-size: 180%;
@@ -3848,7 +3848,7 @@ Supplementary Content
 }
 #supplement .teaser-today p em.more {
     display: block;
-    background: #59082f url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-today-arrow.png?__blob=normal&v=5) 100% -3px no-repeat;
+    background: #59082f url(../img/teaser-today-arrow.png) 100% -3px no-repeat;
     margin: 25px 0 0 -20px;
     padding: 0 30px 0 0;
     font-size: 80%; /* 13px */
@@ -3895,7 +3895,7 @@ Supplementary Content
 }
 #supplement .teaser-dialog p em.more {
     display: block;
-    background: #006F94 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-dialog-arrow.png?__blob=normal&v=3) 100% -3px no-repeat;
+    background: #006F94 url(../img/teaser-dialog-arrow.png) 100% -3px no-repeat;
     margin: 25px 0 0 -20px;
     padding: 0 30px 0 0;
     font-size: 80%; /* 13px */
@@ -3941,7 +3941,7 @@ Supplementary Content
 }
 #supplement .teaser-twitterview p em.more {
     display: block;
-    background: #0097C5 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-twitter-arrow.png?__blob=normal&v=2) 100% -3px no-repeat;
+    background: #0097C5 url(../img/teaser-twitter-arrow.png) 100% -3px no-repeat;
     margin: 25px 0 0 -20px;
     padding: 0 30px 0 0;
     font-size: 80%; /* 13px */
@@ -3952,7 +3952,7 @@ Supplementary Content
     font-family: 'BundesSansWebBold', Arial, Helvetica, sans;
 }
 #supplement .teaser-twitterview.hover-clickarea p em.more {
-    background: #373737 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-twitter-arrow-h.png?__blob=normal&v=2) 100% -3px no-repeat;
+    background: #373737 url(../img/teaser-twitter-arrow-h.png) 100% -3px no-repeat;
 }
 #supplement .teaser-twitterview p em.more a {
     display: block;
@@ -4054,7 +4054,7 @@ Supplementary Content
 #supplement .filter {
     float: left;
     overflow: hidden;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/context-nav.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/context-nav.png) 0 0 repeat;
     margin-top: 27px;
     padding-bottom: 10px;
     border: none;
@@ -4069,7 +4069,7 @@ Supplementary Content
     font-weight: bold;
 }
 #supplement .filter fieldset {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/border-fieldset.png?__blob=normal&v=2) 0 0 repeat-x;
+    background: url(../img/border-fieldset.png) 0 0 repeat-x;
     padding: 10px;
 }
 #supplement .filter h4,
@@ -4098,7 +4098,7 @@ Supplementary Content
     font-size: 100%;
 }
 #supplement .filter input {
-    background: #fff url(/SiteGlobals/StyleBundles/Bilder/Farbschema/search.png?__blob=normal&v=2) 98% 5px no-repeat;
+    background: #fff url(../img/search.png) 98% 5px no-repeat;
     width: 18.2em;
     margin-top: 8px;
     border-color: #F7F7F7;
@@ -4181,7 +4181,7 @@ Supplementary Content
 #supplement .filter .box .combobox input {
     padding: 8px 20px 8px 8px;
     cursor: pointer;
-    background: #fff url(/SiteGlobals/StyleBundles/Bilder/Farbschema/select-button.png?__blob=normal&v=2) no-repeat 97% 13px;
+    background: #fff url(../img/select-button.png) no-repeat 97% 13px;
 }
 #supplement .filter .combobox.combobox-active input,
 #supplement .filter .combobox.js-datalist-visible input {
@@ -4196,7 +4196,7 @@ Supplementary Content
 #supplement .shoppingCardBox {
     float: left;
     overflow: hidden;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/context-nav.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/context-nav.png) 0 0 repeat;
     padding-bottom: 10px;
     border: none;
 }
@@ -4224,7 +4224,7 @@ Supplementary Content
 }
 #supplement .hotline strong {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/phone.png?__blob=normal&v=2) 100% 0 no-repeat;
+    background: url(../img/phone.png) 100% 0 no-repeat;
     padding: 0 0 15px 0;
     font-size: 360%;
     font-weight: normal;
@@ -4277,14 +4277,14 @@ ul#navFunctions li#navFunctionsRecommend a {
     display: block;
     width: 3.7em;
     height: 2.3em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 50% -1600px no-repeat;
+    background: url(../img/sprites-icons.png) 50% -1600px no-repeat;
     text-indent: -9999em;
     color: #fff;
 }
 ul#navFunctions li.print a:focus,
 ul#navFunctions li.print a:hover {
     border-bottom: 2px solid #2c67AB;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) 4px -900px no-repeat;
+    background: url(../img/sprites-icons-2.png) 4px -900px no-repeat;
 }
 ul#navFunctions li#navFunctionsRecommend a {
     background-position: 50% -1800px;
@@ -4292,7 +4292,7 @@ ul#navFunctions li#navFunctionsRecommend a {
 ul#navFunctions li#navFunctionsRecommend a:focus,
 ul#navFunctions li#navFunctionsRecommend a:hover {
     border-bottom: 2px solid #2c67AB;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8) 3px -1100px no-repeat;
+    background: url(../img/sprites-icons-2.png) 3px -1100px no-repeat;
 }
 /* Siteinfo */
 #siteInfo {
@@ -4472,7 +4472,7 @@ JavaScript-Modules
     top: 0;
     display: block;
     width: 30.5em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/stage-arrow.png?__blob=normal&v=2) no-repeat 0 54px;
+    background: url(../img/stage-arrow.png) no-repeat 0 54px;
     padding-left: 36px;
 }
 #stage .teaser p {
@@ -4514,7 +4514,7 @@ JavaScript-Modules
     display: none;
     width: 30px;
     height: 45px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager.png?__blob=normal&v=2) 5px 0 no-repeat;
+    background: url(../img/teaser-switcher-pager.png) 5px 0 no-repeat;
     text-indent: -9999px;
     cursor: pointer;
 }
@@ -4561,12 +4561,12 @@ JavaScript-Modules
     display: block;
     height: 33px;
     width: 34px;
-    background:  url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-icon-ts.png?__blob=normal&v=2) 0 0 no-repeat;
+    background:  url(../img/video-icon-ts.png) 0 0 no-repeat;
     text-indent: -4000px;
     cursor: pointer;
 }
 .teaser-switcher .teaser .image-wrapper .video-opener-2 {
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-icon-2-ts.png?__blob=normal&v=2);
+    background-image: url(../img/video-icon-2-ts.png);
 }
 .teaser-switcher .teaser img {
     display: block;
@@ -4592,7 +4592,7 @@ JavaScript-Modules
     color: #435050;
 }
 .teaser-switcher .teaser h3 a.ExternalLink {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -4196px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -4196px no-repeat;
     padding-left: 12px;
 }
 .teaser-switcher .teaser .more {
@@ -4633,7 +4633,7 @@ JavaScript-Modules
     height: 20px;
     width: 53px;
     height: 53px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-overlay.png?__blob=normal&v=2) 50% 50% no-repeat;
+    background: url(../img/video-overlay.png) 50% 50% no-repeat;
 }
 .teaser-switcher .hover-clickarea h3 a,
 .teaser-switcher .teaser h3 a:hover,
@@ -4644,7 +4644,7 @@ JavaScript-Modules
 /****** Teaser Switcher on Article ******/
 .text .article-teaser-switcher {
     width: 63.5em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-th.jpg?__blob=normal&v=2) 0 0 repeat-x;
+    background: url(../img/bg-th.jpg) 0 0 repeat-x;
     margin: 0 0 30px 0;
     padding: 25px 0 0 0;
 }
@@ -4661,7 +4661,7 @@ JavaScript-Modules
     font-weight: normal;
 }
 .text .article-teaser-switcher h2 span.diashow a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 100% -2000px no-repeat;
+    background: url(../img/sprites-icons.png) 100% -2000px no-repeat;
     padding-right: 26px;
 }
 .text .article-teaser-switcher h2 span.diashow a:hover,
@@ -4670,7 +4670,7 @@ JavaScript-Modules
     text-decoration: underline;
 }
 .text .teaser-switcher {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-th.jpg?__blob=normal&v=2) 0 100% repeat-x;
+    background: url(../img/bg-th.jpg) 0 100% repeat-x;
     width: 62em;
     padding: 0 0 15px 0;
 }
@@ -4735,18 +4735,18 @@ JavaScript-Modules
 }
 #supplement .teaser-switcher-small .prev span {
     left: 0;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager-small.png?__blob=normal&v=3) 0 -42px no-repeat;
+    background: url(../img/teaser-switcher-pager-small.png) 0 -42px no-repeat;
 }
 #supplement .teaser-switcher-small .next span {
     right: 0;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager-small.png?__blob=normal&v=3) -30px -42px no-repeat;
+    background: url(../img/teaser-switcher-pager-small.png) -30px -42px no-repeat;
 }
 #supplement .teaser-switcher-small .prev span.show {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager-small.png?__blob=normal&v=3) 0 0 no-repeat;
+    background: url(../img/teaser-switcher-pager-small.png) 0 0 no-repeat;
     cursor: pointer;
 }
 #supplement .teaser-switcher-small .next span.show {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager-small.png?__blob=normal&v=3) -30px 0 no-repeat;
+    background: url(../img/teaser-switcher-pager-small.png) -30px 0 no-repeat;
     cursor: pointer;
 }
 #supplement .teaser-switcher-small {
@@ -4795,7 +4795,7 @@ JavaScript-Modules
     right: 0;
     height: 33px;
     width: 32px;
-    background:  url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-icon-ts.png?__blob=normal&v=2) 0 0 no-repeat;
+    background:  url(../img/video-icon-ts.png) 0 0 no-repeat;
     text-indent: -4000px;
     cursor: pointer;
 }
@@ -4841,7 +4841,7 @@ JavaScript-Modules
     bottom: 0;
     width: 23px;
     height: 23px;
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons-2.png?__blob=normal&v=8);
+    background-image: url(../img/sprites-icons-2.png);
     background-repeat: no-repeat;
     text-indent: -9999px;
     cursor: default;
@@ -4906,7 +4906,7 @@ JavaScript-Modules
 }
 /****** Social Network Tabs (on Homepage) ******/
 #social-network {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-box.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-box.png) 0 0 repeat;
 }
 #social-network ol {
     width: 98em;
@@ -4952,7 +4952,7 @@ JavaScript-Modules
     background-color: #fff;
 }
 #social-network ol li.twitter a {
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+    background-image: url(../img/sprite-social.png);
     background-position: 50% 16px;
     background-repeat: no-repeat;
 }
@@ -4964,7 +4964,7 @@ JavaScript-Modules
     background-position: 50% -783px;
 }
 #social-network ol li.newsletter a {
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+    background-image: url(../img/sprite-social.png);
     background-position: 50% -182px;
     background-repeat: no-repeat;
 }
@@ -4976,7 +4976,7 @@ JavaScript-Modules
     background-position: 50% -982px;
 }
 #social-network ol li.rss a {
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+    background-image: url(../img/sprite-social.png);
     background-position: 50% -382px;
     background-repeat: no-repeat;
 }
@@ -4988,7 +4988,7 @@ JavaScript-Modules
     background-position: 50% -1182px;
 }
 #social-network ol li.youtube a {
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+    background-image: url(../img/sprite-social.png);
     background-position: 50% -582px;
     background-repeat: no-repeat;
 }
@@ -5000,7 +5000,7 @@ JavaScript-Modules
     background-position: 50% -1382px;
 }
 #social-network ol li.webshop a {
- background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+ background-image: url(../img/sprite-social.png);
  background-position: 48% -2183px;
  background-repeat: no-repeat;
 }
@@ -5018,7 +5018,7 @@ JavaScript-Modules
 #social-network ol li.podcast a {
     min-height: 7.2em;
  width: 16em;
- background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+ background-image: url(../img/sprite-social.png);
  background-position: 0 -2584px;
     background-repeat: no-repeat;
     padding: 17px 10px 0 65px;
@@ -5053,7 +5053,7 @@ JavaScript-Modules
     color: #004F80;
 }
 #social-network ol li.flickr a {
- background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+ background-image: url(../img/sprite-social.png);
  background-position: 50% -1581px;
  background-repeat: no-repeat;
 }
@@ -5062,7 +5062,7 @@ JavaScript-Modules
 #social-network ol li.flickr a:active,
 #social-network ol li.flickr a:focus,
 #social-network ol li.flickr a.a11y-focus {
- background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+ background-image: url(../img/sprite-social.png);
  background-position: 50% -1781px;
  background-repeat: no-repeat;
 }
@@ -5074,7 +5074,7 @@ JavaScript-Modules
  color: #004F80;
 }
 #social-network ol li.infomaterial a {
- background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+ background-image: url(../img/sprite-social.png);
  background-position: 50% -2183px;
  background-repeat: no-repeat;
 }
@@ -5083,7 +5083,7 @@ JavaScript-Modules
 #social-network ol li.infomaterial a:active,
 #social-network ol li.infomaterial a:focus,
 #social-network ol li.infomaterial a.a11y-focus {
- background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-social.png?__blob=normal&v=9);
+ background-image: url(../img/sprite-social.png);
  background-position: 50% -1983px;
  background-repeat: no-repeat;
 }
@@ -5099,7 +5099,7 @@ JavaScript-Modules
     text-decoration: none;
 }
 #social-network .section-group-box {
-    background: #fff url(/SiteGlobals/StyleBundles/Bilder/Farbschema/section-group-box.png?__blob=normal&v=2) 0 100% repeat-x;
+    background: #fff url(../img/section-group-box.png) 0 100% repeat-x;
     width: 100%;
     padding-bottom: 15px;
     display: none;
@@ -5190,22 +5190,22 @@ JavaScript-Modules
 #social-network .social-box-link a:hover span,
 #social-network .social-box-link a:active span,
 #social-network .social-box-link a:focus span {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/social-link-arrow-h.gif?__blob=normal&v=4) no-repeat 100% 50%;
+    background: url(../img/social-link-arrow-h.gif) no-repeat 100% 50%;
 }
 #social-network .twitter .social-box-link a {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-button-social-box.png?__blob=normal&v=3) 10px 5px no-repeat;
+    background: #004F80 url(../img/sprites-button-social-box.png) 10px 5px no-repeat;
 }
 #social-network .rss .social-box-link a {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-button-social-box.png?__blob=normal&v=3) 10px -194px no-repeat;
+    background: #004F80 url(../img/sprites-button-social-box.png) 10px -194px no-repeat;
 }
 #social-network .youtube .social-box-link a {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-button-social-box.png?__blob=normal&v=3) 10px -394px no-repeat;
+    background: #004F80 url(../img/sprites-button-social-box.png) 10px -394px no-repeat;
 }
 #social-network .podcast .social-box-link a {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-button-social-box.png?__blob=normal&v=3) 10px -793px no-repeat;
+    background: #004F80 url(../img/sprites-button-social-box.png) 10px -793px no-repeat;
 }
 #social-network .flickr .social-box-link a {
- background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-button-social-box.png?__blob=normal&v=3) 10px -993px no-repeat;
+ background: #004F80 url(../img/sprites-button-social-box.png) 10px -993px no-repeat;
 }
 #social-network .social-box-link a:active,
 #social-network .social-box-link a:focus,
@@ -5219,7 +5219,7 @@ JavaScript-Modules
     display: none;
     float: right;
     height: 1%;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 97% 0 no-repeat;
+    background: url(../img/sprites-icons.png) 97% 0 no-repeat;
     padding: 2px 28px 1px 0;
     font-size: 130%;
     text-transform: uppercase;
@@ -5246,7 +5246,7 @@ JavaScript-Modules
  padding: 9px 40px 8px 20px;
  text-align: center;
  text-transform: uppercase;
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/social-link-arrow.gif?__blob=normal&v=4) no-repeat 100% 50%;
+ background: url(../img/social-link-arrow.gif) no-repeat 100% 50%;
 }
 #social-network .webshop-link a:hover,
 #social-network .webshop-link a:active,
@@ -5256,7 +5256,7 @@ JavaScript-Modules
 #social-network .webshop-link a:hover span,
 #social-network .webshop-link a:active span,
 #social-network .webshop-link a:focus span {
- background: #585858 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/social-link-arrow-h.gif?__blob=normal&v=4) no-repeat 100% 50%;
+ background: #585858 url(../img/social-link-arrow-h.gif) no-repeat 100% 50%;
  color: #fff;
 }
 .js-on #social-network .close a {
@@ -5277,7 +5277,7 @@ JavaScript-Modules
 #social-network .section .submit {
     float: right;
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/social-link-arrow.gif?__blob=normal&v=4) no-repeat 100% 50%;
+    background: url(../img/social-link-arrow.gif) no-repeat 100% 50%;
     padding: 9px 17px 9px 0;
     text-align: center;
     text-transform: uppercase;
@@ -5285,11 +5285,11 @@ JavaScript-Modules
 #social-network .section .submit:hover,
 #social-network .section .submit:active,
 #social-network .section .submit:focus {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/social-link-arrow-h.gif?__blob=normal&v=4) no-repeat 100% 50%;
+    background: url(../img/social-link-arrow-h.gif) no-repeat 100% 50%;
 }
 #social-network .section .submit input {
     width: auto;
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-button-social-box.png?__blob=normal&v=3) 10px -592px no-repeat;
+    background: #004F80 url(../img/sprites-button-social-box.png) 10px -592px no-repeat;
     border: none;
     -moz-border-radius: 3px 0 0 3px;
     -webkit-border-radius: 3px 0 0 3px;
@@ -5320,7 +5320,7 @@ JavaScript-Modules
     font-style: normal;
 }
 #social-network .section em.more a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3197px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -3197px no-repeat;
     padding-left: 10px;
 }
 #social-network .section em.more a:hover,
@@ -5335,13 +5335,13 @@ JavaScript-Modules
     width: 59.5em;
 }
 #social-network .js-tweet-box {
-    background:  url(/SiteGlobals/StyleBundles/Bilder/Farbschema/tweet-comment.png?__blob=normal&v=2) 0 3px no-repeat;
+    background:  url(../img/tweet-comment.png) 0 3px no-repeat;
     margin-bottom: 20px;
     margin-left: 110px;
     padding-left: 35px;
 }
 #social-network .tweet-highlighted {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/tweeit-highlighted-arrow.jpg?__blob=normal&v=3) 50px 100% no-repeat;
+    background: url(../img/tweeit-highlighted-arrow.jpg) 50px 100% no-repeat;
     margin-left: 0;
     margin-bottom: -20px;
     padding: 0 0 41px 0;
@@ -5684,7 +5684,7 @@ JavaScript-Modules
     position: absolute;
     left: 191px;
     top: 84px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/video-overlay-2.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/video-overlay-2.png) 0 0 no-repeat;
     width: 68px;
     height: 68px;
     text-indent: -99999em;
@@ -5719,7 +5719,7 @@ JavaScript-Modules
     font-size: 160%;
 }
 #social-network .social-teaser ul li a {
-    background:  url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -3596px no-repeat;
+    background:  url(../img/sprites-icons.png) 0 -3596px no-repeat;
     padding-left: 13px;
 }
 #social-network .social-teaser ul li a:hover,
@@ -5862,7 +5862,7 @@ JavaScript-Modules
 }
 #main .toc a.js-selected,
 #main .toc .aktiv a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-toc.png?__blob=normal&v=2) 50% 100% no-repeat;
+    background: url(../img/arrow-toc.png) 50% 100% no-repeat;
     padding-bottom: 8px;
 }
 #main .toc a.js-selected span,
@@ -5900,7 +5900,7 @@ JavaScript-Modules
     padding: 5px 0;
 }
 .js-on .accordion h2 {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 100% -2594px no-repeat;
+    background: url(../img/sprites-icons.png) 100% -2594px no-repeat;
     cursor: pointer;
     outline: none;
 }
@@ -5931,7 +5931,7 @@ JavaScript-Modules
 }
 .accordion-content .links a {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -2991px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -2991px no-repeat;
     padding: 0 0 0 25px;
 }
 .accordion-content .links a:hover,
@@ -5954,10 +5954,10 @@ JavaScript-Modules
     z-index: 100;
 }
 .loading-mask {
-    background: transparent url(/SiteGlobals/StyleBundles/Bilder/Farbschema/loading.gif?__blob=normal&v=2) no-repeat fixed center;
+    background: transparent url(../img/loading.gif) no-repeat fixed center;
 }
 .showbox.loading .showbox-box {
-    background: transparent url(/SiteGlobals/StyleBundles/Bilder/Farbschema/loading.gif?__blob=normal&v=2) no-repeat center;
+    background: transparent url(../img/loading.gif) no-repeat center;
 }
 .showbox {
     display: none;
@@ -5994,7 +5994,7 @@ JavaScript-Modules
     position: absolute;
     top: 40px;
     right: 25px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 100% 0 no-repeat;
+    background: url(../img/sprites-icons.png) 100% 0 no-repeat;
     padding: 2px 26px 2px 0;
     cursor: pointer;
     color: #000;
@@ -6036,7 +6036,7 @@ JavaScript-Modules
     width: 40px;
     height: 45px;
     text-indent: -9999em;
-    background: transparent url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager.png?__blob=normal&v=2) 15px 0 no-repeat;
+    background: transparent url(../img/teaser-switcher-pager.png) 15px 0 no-repeat;
 }
 .showbox .content-box .next span {
     float: right;
@@ -6055,7 +6055,7 @@ JavaScript-Modules
     zoom: 1;
 }
 .showbox .text-content {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-pictures.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-pictures.png) 0 0 repeat;
     padding: 10px 20px;
 }
 .showbox .text-content h2.caption {
@@ -6111,7 +6111,7 @@ JavaScript-Modules
     position: absolute;
     left: -6px;
     top: 15em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/teaser-switcher-pager.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/teaser-switcher-pager.png) 0 0 no-repeat;
     width: 25px;
     height: 45px;
     padding: 0;
@@ -6171,7 +6171,7 @@ JavaScript-Modules
 }
 .gallery .multimedia-description {
     zoom: 1;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-pictures.png?__blob=normal&v=2) 0 0 repeat;
+    background: url(../img/bg-pictures.png) 0 0 repeat;
     margin: 0 18px 35px 18px;
 }
 /* Carousel */
@@ -6215,7 +6215,7 @@ JavaScript-Modules
 .country-teaser dl {
     float: left;
     width: 29.2em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-shaded.png?__blob=normal&v=1) 0 0 repeat;
+    background: url(../img/bg-shaded.png) 0 0 repeat;
     margin: 0 5px 0 0;
     font-size: 100%;
 }
@@ -6248,14 +6248,14 @@ JavaScript-Modules
     position: absolute;
     bottom: 0;
     left: 0;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-country.png?__blob=normal&v=1) 300px 0 no-repeat;
+    background: url(../img/arrow-country.png) 300px 0 no-repeat;
     height: 8px;
     width: 61em;
 }
 .country-teaser-mod .arrow {
     top: 0;
     bottom: auto;
-    background-image: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-country-mod.png?__blob=normal&v=1);
+    background-image: url(../img/arrow-country-mod.png);
 }
 /****** Map Europe List in Supplement ******/
 .country-list {
@@ -6264,7 +6264,7 @@ JavaScript-Modules
     margin: 0 0 20px 0;
 }
 #supplement .country-list h3 {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/context-nav.png?__blob=normal&v=2) repeat 0 0;
+    background: url(../img/context-nav.png) repeat 0 0;
     margin: 0;
     padding: 15px 15px 10px 15px;
     font-family: 'BundesSansWebBold', Arial, Helvetica, sans;
@@ -6274,7 +6274,7 @@ JavaScript-Modules
 }
 .country-list ul {
     width: 31.7em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/context-nav.png?__blob=normal&v=2) repeat 0 0;
+    background: url(../img/context-nav.png) repeat 0 0;
     margin: 0;
     padding: 0;
 }
@@ -6282,19 +6282,19 @@ JavaScript-Modules
     position: relative;
     left: -10px;
     width: 32.7em;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/border-trans.png?__blob=normal&v=3) repeat-x 0 0;
+    background: url(../img/border-trans.png) repeat-x 0 0;
     padding-left: 0;
     list-style: none;
 }
 .country-list a,
 .country-list strong {
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-context-off.png?__blob=normal&v=2) no-repeat -1px 50%;
+    background: url(../img/arrow-context-off.png) no-repeat -1px 50%;
     padding: 0 0 0 11px;
 }
 .country-list span { /* Belgium */
     display: block;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/flaggen.png?__blob=normal&v=3) 100% 12px no-repeat;
+    background: url(../img/flaggen.png) 100% 12px no-repeat;
     padding: 7px 10px 8px 15px;
     color: #3F4C4C;
     font-size: 150%;
@@ -6399,7 +6399,7 @@ JavaScript-Modules
 .country-list a:active,
 .country-list a:focus,
 .country-list strong {
-    background: #004F80 url(/SiteGlobals/StyleBundles/Bilder/Farbschema/arrow-context-on.png?__blob=normal&v=3) no-repeat 0 50%;
+    background: #004F80 url(../img/arrow-context-on.png) no-repeat 0 50%;
     font-weight: normal;
     color: #fff;
 }
@@ -6510,7 +6510,7 @@ JavaScript-Modules
 span.start-stop-nav span.start{
     width: 15px;
     height: 15px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/play-small.png?__blob=normal&v=1) 0 0 no-repeat;
+    background: url(../img/play-small.png) 0 0 no-repeat;
     display: block;
     text-indent: -5000px;
     cursor: pointer;
@@ -6518,7 +6518,7 @@ span.start-stop-nav span.start{
 span.start-stop-nav span.stop{
     width: 15px;
     height: 15px;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/stopp-small.png?__blob=normal&v=1) 0 0 no-repeat;
+    background: url(../img/stopp-small.png) 0 0 no-repeat;
     display: block;
     text-indent: -5000px;
     cursor: pointer;
@@ -6539,10 +6539,10 @@ span.start-stop-nav span.hidden{
     width: auto;
 }
 .newsticker .start-stop-nav span.start {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/play-g-small.png?__blob=normal&v=1) 0 0 no-repeat;
+    background: url(../img/play-g-small.png) 0 0 no-repeat;
 }
 .newsticker .start-stop-nav span.stop {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/pause-g-small.png?__blob=normal&v=2) 0 0 no-repeat;
+    background: url(../img/pause-g-small.png) 0 0 no-repeat;
 }
 .recommendations {
     zoom: 1;
@@ -6619,7 +6619,7 @@ span.start-stop-nav span.hidden{
     zoom: 1;
     padding: 10px 15px;
     font-size: 100%;
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/bg-addinfo.png?__blob=normal&v=1) repeat 0 0;
+    background: url(../img/bg-addinfo.png) repeat 0 0;
 }
 #brochure .additionallinks li {
     zoom: 1;
@@ -6643,11 +6643,11 @@ span.start-stop-nav span.hidden{
     text-decoration: underline;
 }
 #main #brochure .audioAdd a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-media.png?__blob=normal&v=1) no-repeat 0 0;
+    background: url(../img/sprite-media.png) no-repeat 0 0;
     padding: 5px 0 5px 28px;
 }
 #main #brochure .langAdd a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprite-media.png?__blob=normal&v=1) no-repeat 0 -396px;
+    background: url(../img/sprite-media.png) no-repeat 0 -396px;
     padding: 5px 0 5px 18px;
 }
 #main #brochure p {
@@ -6665,7 +6665,7 @@ span.start-stop-nav span.hidden{
     margin: 20px 0 10px 0;
 }
 #main #brochure .aboLink a {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/basket.png?__blob=normal&v=1) no-repeat 0 0;
+    background: url(../img/basket.png) no-repeat 0 0;
     padding: 3px 0 3px 35px;
     font-weight: bold;
 }
@@ -6677,7 +6677,7 @@ span.start-stop-nav span.hidden{
     padding-top: 0;
 }
 #main #brochure a.ExternalLink {
-    background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/sprites-icons.png?__blob=normal&v=5) 0 -4196px no-repeat;
+    background: url(../img/sprites-icons.png) 0 -4196px no-repeat;
     padding-left: 13px;
     font-family: 'BundesSansWebBold', Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -6691,7 +6691,7 @@ span.start-stop-nav span.hidden{
  font-family: 'BundesSansWebBold', Arial, Helvetica, sans-serif;
 }
 #supplement .shopping-cart h3 a {
- background: url(/SiteGlobals/StyleBundles/Bilder/Farbschema/shopping-cart.png?__blob=normal&v=1) no-repeat right 2px #FFFFFF;
+ background: url(../img/shopping-cart.png) no-repeat right 2px #FFFFFF;
  display: block;
  font-weight: bold;
  padding: 7px 45px 6px 8px;
