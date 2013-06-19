@@ -1,0 +1,48 @@
+#superplayer {
+  background-color: #004F80;
+  height: 820px;
+  width: 844px;
+  z-index: 55;
+}
+#superplayer-html {
+  background-color: #385885;
+  position: absolute;
+  top: 500px;
+  left: 18px;
+  height: 333px;
+  width:438px;
+  overflow: auto;
+}
+#superplayer-html,
+#superplayer-html * {
+  color: #ffffff;
+}
+#superplayer-html .content {
+  float: none;
+  margin: 0;
+  position: relative;
+  width:100%;
+}
+#superplayerFlash .getflash {
+  color:#fff;
+  padding:15px
+}
+
+#superplayer-html .mediaAdditionals h4 {
+  font-size:130%
+}
+
+#superplayer-html  .mediaAdditionals {
+  border: none;
+  padding: 10px;
+}
+
+#superplayer-html  .mediaAdditionals .left, 
+#superplayer-html .mediaAdditionals .right {
+  float: none;
+  width: 100%;
+}
+
+#superplayer-html .mediaAdditionals ul {
+  margin-bottom:10px;
+}
