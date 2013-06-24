@@ -1,4 +1,3 @@
-#= require "_helper"
 
 # requirejs makes life a lot easier when dealing with more than one
 # javascript file and any sort of dependencies, and loads faster.
