@@ -205,7 +205,6 @@ Layout
     border-right: 33.3em solid #EEEEED;
 }
 #wrapperContent #main {
-    position: relative;
     float: left;
     width: 64.7em;
     background:  #fff;
@@ -295,10 +294,18 @@ Branding
     position: relative;
     height: 13.4em;
 }
-#branding #logo img {
+#branding img {
     float: left;
     border: 0;
     margin-top:  20px;
+}
+
+#logo {
+    height: 100px;
+    width: 150px;
+    margin-top: 30px;  
+    float:left; 
+    margin-left: 430px; 
 }
 /* ***************************************
 All Navigations
