@@ -17,6 +17,12 @@
     
     <meta name="keywords" content="BPA">
     <meta name="description" content="Startseite Presse- und Informationsamt der Bundesregierung">
+
+    <style>
+  <!--
+    #message {position:absolute;top:auto;bottom:50px;left:30%;width:600px;right:auto;font-size:50px;font-family:helvetica}
+  //-->
+  </style>
     
     <link rel="canonical" href="./Bundesregierung   Startseite_files/Bundesregierung   Startseite.html">    <link rel="bookmark" href="http://www.bundesregierung.de/Webs/Breg/DE/Startseite/startseite_node.html#Start" type="text/html" title="Zum Inhalt"><!-- NOTE: points to the beginning of the document -->
     <link rel="copyright" href="http://www.bundesregierung.de/Webs/Breg/DE/Service/Impressum/impressum_node.html" type="text/html" title="Impressum">
@@ -65,10 +71,14 @@
     <script src="js/aditional_init.js" type="text/javascript"></script>
   -->
   <!-- ... but our own script :) -->
+    <script src="js/wiggle.js" type="text/javascript"></script>
     <script src="js/main.js" type="text/javascript"></script>
+     <script src="js/require.js" data-main="js/main.js"></script>
 
   </head>
   <body class="gsb home">
+    <canvas id="canvas"></canvas>
+  <div id="message"></div>
 <!-- INFOnline -->
 <!-- SZM Tag-->
  <!-- SZM VERSION="1.5" -->
@@ -88,6 +98,11 @@
 <!-- /FRABO Tag -->
 <!-- /INFOnline -->
 
+<div id="logo">
+    <div class="spielen"><img src="img/logo_bundesregierung.png" alt="Logo der Bundesregierung">
+    </div>
+</div>
+
 <div id="wrapperOuter">
   <div id="wrapperInner">
   <a id="Start" name="Start"></a>
@@ -99,10 +114,8 @@
     <li><a href="http://www.bundesregierung.de/Webs/Breg/DE/Startseite/startseite_node.html#Suche">Suche</a></li>
   </ul><!-- .navSkip -->
   <div id="wrapperHeader">
+    
     <div id="branding">
-
-<div id="logo"><img src="img/logo_bundesregierung.png" alt="Logo der Bundesregierung">
-</div>
       <div id="navServiceMeta">
         <h2>Servicemenü</h2>
 
@@ -144,7 +157,7 @@
       <h2><a id="Hauptmenu" name="Hauptmenu">Hauptmenu</a></h2>
 
 <div class="nav-global-box">
-  <ul class="nav-global">
+  <ul class="nav-global spielen">
 <li>
 <a href="http://www.bundesregierung.de/Webs/Breg/DE/Bundeskanzlerin/_node.html">Bundeskanzlerin</a>
 </li>
@@ -309,13 +322,14 @@
 </a>
   </div>
   <div class="teaser-box">
-    
+
 <h3>
   <em>G8-Gipfel</em>
   <a href="http://www.bundesregierung.de/Content/DE/Reiseberichte/2013-06-17-g8-lough-erne.html" title="Lesen Sie den Artikel &quot;Gemeinsam Wachstum schaffen&quot;">Gemeinsam Wachstum schaffen</a>
 </h3>
+<div class="spielen">
     <p>Zum Auftakt des <acronym title="Gruppe der Acht">G8</acronym>-Gipfels in Nordirland stand die Weltwirtschaft im Mittelpunkt. Die Lage in Syrien, Steuern, Handel und Transparenz werden in den weiteren Beratungen einen großen Raum einnehmen. Am Rande des Gipfels fiel der Startschuss für das Freihandelsabkommen zwischen der <abbr title="Europäische Union">EU</abbr> und den <acronym title="United States of America">USA</acronym>.</p>
-
+</div>
   </div>
 </div>
         
@@ -381,42 +395,42 @@
 
 <div class="social-box">
   <ol>
-    <li class="twitter">
+    <li class="twitter spielen">
       <a target="_blank" title="Öffnet neues Fenster" aria-controls="section-1" tabindex="0" aria-expanded="false" role="button" data-href="http://twitter.com/regsprecher#section-1">
         Twitter
         <span class="corner corner-tl"></span>
         <span class="corner corner-tr"></span>
       </a>
     </li>
-    <li class="newsletter">
+    <li class="newsletter spielen">
       <a aria-controls="section-2" tabindex="0" aria-expanded="false" role="button" data-href="Webs/Breg/DE/Service/Abos/_node.html#section-2">
         Newsletter
         <span class="corner corner-tl"></span>
         <span class="corner corner-tr"></span>
       </a>
     </li>
-    <li class="rss on">
+    <li class="rss on spielen">
       <a aria-controls="section-3" tabindex="0" aria-expanded="false" role="button" data-href="Webs/Breg/DE/Service/RSS-Newsfeed/_node.html#section-3">
         RSS Feed
         <span class="corner corner-tl"></span>
         <span class="corner corner-tr"></span>
       </a>
     </li>
-    <li class="youtube">
+    <li class="youtube spielen">
       <a target="_blank" title="Öffnet neues Fenster" aria-controls="section-4" tabindex="0" aria-expanded="false" role="button" data-href="http://www.youtube.de/bundesregierung#section-4">
         Youtube
         <span class="corner corner-tl"></span>
         <span class="corner corner-tr"></span>
       </a>
     </li>
-    <li class="flickr">
+    <li class="flickr spielen">
       <a target="_blank" title="Öffnet neues Fenster" aria-controls="section-5" tabindex="0" aria-expanded="false" role="button" data-href="http://www.flickr.com/photos/bundesregierung#section-5">
         Flickr
         <span class="corner corner-tl"></span>
         <span class="corner corner-tr"></span>
       </a>
     </li>
-    <li class="podcast">
+    <li class="podcast spielen">
       <a aria-controls="section-6" tabindex="0" aria-expanded="false" role="button" data-href="Webs/Breg/DE/Service/Mediathek/Videos/videos_node.html#section-6">
 <em>Merkel: Freundschaft mit USA weiterentwickeln</em>        Podcast
         <span class="corner corner-tl"></span>
@@ -567,7 +581,7 @@ Mit einem Abonnement unserer RSS-Nachrichten bleiben Sie jederzeit auf dem Laufe
 <a href="http://www.bundesregierung.de/Content/DE/Artikel/2013/06/2013-06-17-g8-syrien.html" title="Lesen Sie den Artikel &quot;Mehr Hilfe für syrische Flüchtlinge&quot;">
   <img src="img/2013-06-17-syrien-g8.jpg" alt="Menschen fliehen in Syrien vor den Kämpfen." style=" width:234px">
 </a>
-  <div class="teaser-box">
+  <div class="teaser-box spielen">
     
 <h3>
   <em>G8-Gipfel</em>
@@ -591,7 +605,7 @@ Mit einem Abonnement unserer RSS-Nachrichten bleiben Sie jederzeit auf dem Laufe
 <a href="http://www.bundesregierung.de/Content/DE/Infodienst/2013/06/2013-06-17-freihandelsabkommen/2013-06-17-freihandelsabkommen.html" title="Lesen Sie den Artikel &quot;Freihandelsabkommen EU-USA&quot;">
   <img src="img/02_im_golfhotel_am_lough_erne_finden_vorab_gespraeche_zwischen_der_eu_und_den_usa_ueber_eine_freihandelszone_statt.jpg" alt="Blick in die Gesprächsrunde mit Merkel, EU-Kommissionspräsident Barroso, US-Präsident Obama und europäischen Regierungschefs." style=" width:234px">
 </a>
-  <div class="teaser-box">
+  <div class="teaser-box spielen">
     
 <h3>
   <em>Fakten zur Regierungspolitik</em>
