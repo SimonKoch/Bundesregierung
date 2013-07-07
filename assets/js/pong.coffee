@@ -80,7 +80,8 @@ class Ball extends Entity
     @context.fillRect @x+@offsetX, @y+@offsetY, @w, @h
   
 class window.PongApp
-  main: ->
+  main: (PlayerLeft, PlayerRight, Ball, ScoreView) ->
+    # Handle given Players, ScoreView and Ball here as jQuery Objects, not a canvas!
     @createCanvas()
     @addKeyObservers()
     @startNewGame()
