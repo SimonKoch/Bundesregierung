@@ -1,4 +1,3 @@
-
 $(function(){
 
 	var degrees = ['0','0.5','1','0'];
@@ -72,16 +71,16 @@ $(function(){
 	return jup;
   });
 
-  var ball;
+  var Ball;
   do {
 	  var randPos = Math.floor(Math.random()*leftPositions.length);
 
-	  var ball = middlePositions[randPos].el;
-	  ball.addClass('ball');
-	  ball.ClassyWiggle('start',{degrees:[9,0,8,0,3,7,1]}).css("border", "2px solid yellow");
-	} while ( middlePositions.length > 0 && (PlayerLeft.is(ball) || PlayerRight.is(ball)) )
+	  var Ball = middlePositions[randPos].el;
+	  Ball.addClass('ball');
+	  Ball.ClassyWiggle('start',{degrees:[9,0,8,0,3,7,1]}).css("border", "2px solid yellow");
+	} while ( middlePositions.length > 0 && (PlayerLeft.is(Ball) || PlayerRight.is(Ball)) )
 
-  console.log("found ball", ball);
+  console.log("found ball", Ball);
 
 
 
@@ -112,5 +111,8 @@ $(function(){
 	  }, 1500 );
 
 
+  // Integrate the Pong from pong.coffee:
+  pong = new PongApp();
+  //pong.main(PlayerLeft,PlayerRight,Ball);
 
-})
+});
